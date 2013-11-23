@@ -1,3 +1,5 @@
+Forked this to create scripts to make it easy to put on kindle. Ended up using pandoc to create epub and then converted it to mobi with online convertor.
+
 # You Don't Know JS (book series)
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
